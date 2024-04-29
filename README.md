@@ -38,10 +38,8 @@
   <p align="center">
     A small little handbook written by me to describe how I go about design in literally everything (including computing...). The handbook talks about my definitions on what Engineering and Design are, how to go about them successfully, as well as a step-by-step process on how to do good design with integrated personal examples :).
     <br />
-    <a href="https://github.com/GEEGABYTE1/EngineeringHandbook"><strong>Explore the docs »</strong></a>
     <br />
-    <br />
-    <a href="https://github.com/GEEGABYTE1/EngineeringHandbook">View Handbook</a>
+    <a href="https://github.com/GEEGABYTE1/EngineeringHandbook/blob/master/EngineeringHandbook.pdf">View Handbook</a>
 
   </p>
 </div>
