@@ -36,7 +36,7 @@
 <h3 align="center">Jaival's Little Engineering Handbook ⭐️</h3>
 
   <p align="center">
-    A small little handbook written by me to describe how I go about design in literally everything (including computing...). The handbook talks about my definitions on what Engineering and Design are, how to go about them successfully, as well as a step-by-step process on how to do good design with integrated personal examples :).
+    A small little handbook written by me to describe how I go about design in literally everything (including computing...). The handbook portrays  my definitions on what Engineering and Design are, how I got about them successfully, as well as a step-by-step process on how to do good design with integrated personal examples :).
     <br />
     <br />
     <a href="https://github.com/GEEGABYTE1/EngineeringHandbook/blob/master/EngineeringHandbook.pdf">View Handbook</a>
